@@ -1,4 +1,5 @@
 # SignalClone
+Mobile Programming Course Project
 React Native and Firebase
 
 ## Login Screen
